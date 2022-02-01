@@ -1,10 +1,8 @@
-height = 68 #This unit is in inches
+name = ""
+list_a = []
 
-if height > 70:
-    print("You are really tall")
+if list_a:
+    print("I will not run")
 
-elif height > 60:
-    print("You are of average height")
-    
 else:
-    print("You are really short")
+    print("I am empty")
